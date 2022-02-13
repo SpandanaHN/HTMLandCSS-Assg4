@@ -1,0 +1,56 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.Container{
+    width: 1600px;
+    margin: auto;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.Row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width: 100%;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.box1_1{
+    width: 15%;
+    margin: auto;
+    padding: 10px 10px;
+    border: 1px solid black;
+}
+
+.box1_2{
+    width: 15%;
+    margin: auto;
+}
+
+.img .box1_2{
+    width: 25%;
+    margin: auto;
+}
+
+.box1_3{
+    width: 25%;
+    margin: auto;
+}
+
+.img{
+    width: 15%;
+    margin: auto;
+    border: 1px solid black;
+}
